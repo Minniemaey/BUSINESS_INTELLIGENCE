@@ -1,2 +1,2 @@
 ## POWER-BI
-Sales data report from Udemy assignment
+Superstore sales and profit data report from Udemy course
